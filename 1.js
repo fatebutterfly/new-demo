@@ -15,7 +15,8 @@ console.log("xxxxx");
 
 console.log('server start at 888');
 //ss
-
+var ssssssssssss = 2222
+console.log(ssssssssssss)
 /*
 2015-12-31T10:27:14.963035Z 1 [Note] A temporary password is generated for root@localhost: clZlyfp;W3qY
 */
